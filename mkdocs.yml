@@ -17,7 +17,6 @@ theme:
     - navigation.tabs
     - toc.integrate
 
-
 extra:
   social:
     - icon: fontawesome/brands/github
