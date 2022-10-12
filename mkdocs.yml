@@ -19,6 +19,8 @@ theme:
 
 nav:
   - Home: index.md
+    - SoP : src/SoP.md
+    - PoS : src/PoS.md
 
 
 extra:
