@@ -17,6 +17,10 @@ theme:
     - navigation.tabs
     - toc.integrate
 
+nav:
+  - Home: index.md
+
+
 extra:
   social:
     - icon: fontawesome/brands/github
