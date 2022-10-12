@@ -18,7 +18,8 @@ theme:
     - toc.integrate
 
 nav:
-  - Home: index.md
+  - Home:
+    - Digital Techniques: index.md
     - SoP : src/SoP.md
     - PoS : src/PoS.md
 
