@@ -17,12 +17,6 @@ theme:
     - navigation.tabs
     - toc.integrate
 
-nav:
-  - Home:
-   
-    
-  
-    
 
 extra:
   social:
